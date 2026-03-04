@@ -1024,6 +1024,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 The Art of Unit Testing, Third Edition (2021)](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy.
 - [📕 The Creative Programmer (2022)](https://www.manning.com/books/the-creative-programmer) - Book about creative problem solving in programming.
 - [📖 Safe by Design: Explorations in Software Architecture and Expressiveness](https://github.com/SanQri/safe-by-design) - The book tells about enforcing safety by design and provides examples that can be applied in gamedev.
+- [📕 Lean Software Engineering: Fix the System, Not the Code](https://www.manning.com/books/lean-software-engineering) - A book that introduces an AI-aware systems thinking approach adapted for the modern software development lifecycle, targeting the bottlenecks where high-value improvements live.
 
 ## Psychedelics
 
